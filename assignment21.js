@@ -1,3 +1,4 @@
+//They think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
 var apple = { name: "Apple" };
 var banana = { name: "Banana" };
 var orange = { name: "Orange" };

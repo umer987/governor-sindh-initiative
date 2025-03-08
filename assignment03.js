@@ -1,4 +1,4 @@
-le, and then print that person’s name in lowercase, uppercase, and titlecase.
+then print that person’s name in lowercase, uppercase, and titlecase.
 
 
 

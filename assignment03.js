@@ -1,8 +1,3 @@
-titlecase.
-
-
-
-
 var personName = "Eric";
 console.log("Lowercase:", personName.toLowerCase());
 console.log("Uppercase:", personName.toUpperCase());

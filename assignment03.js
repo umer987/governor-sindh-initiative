@@ -1,4 +1,4 @@
-’s name in lowercase, uppercase, and titlecase.
+titlecase.
 
 
 

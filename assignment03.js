@@ -1,4 +1,4 @@
- that person’s name in lowercase, uppercase, and titlecase.
+’s name in lowercase, uppercase, and titlecase.
 
 
 
